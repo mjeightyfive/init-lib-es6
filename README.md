@@ -1,4 +1,4 @@
-# init-lib
+# init-lib-es6
 
 Initial setup for creating a JavaScript ES6 library.
 
