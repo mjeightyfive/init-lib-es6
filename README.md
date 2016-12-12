@@ -1,6 +1,6 @@
 # init-lib
 
-Initial setup for creating and releasing a JavaScript library.
+Initial setup for creating a JavaScript ES6 library.
 
 ## Install
 
