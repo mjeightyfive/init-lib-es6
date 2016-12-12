@@ -1,6 +1,6 @@
 {
   "name": "init-lib-es6",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Initial setup for creating and releasing a JavaScript library.",
   "main": "index.js",
   "files": [
